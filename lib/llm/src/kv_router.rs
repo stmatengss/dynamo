@@ -45,6 +45,7 @@ pub use dynamo_kv_router::selector;
 pub mod agent_controller;
 pub mod indexer;
 pub mod metrics;
+pub mod mooncake_health;
 pub mod prefill_router;
 pub mod publisher;
 pub mod push_router;
